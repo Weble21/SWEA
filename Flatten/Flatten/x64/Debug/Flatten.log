@@ -1,0 +1,4 @@
+﻿  소스.cpp
+C:\Users\Donggeon\Desktop\SWEA\Flatten\Flatten\소스.cpp(23,4): warning C4834: 'nodiscard' 특성이 포함된 함수의 반환 값을 버리는 중
+C:\Users\Donggeon\Desktop\SWEA\Flatten\Flatten\소스.cpp(24,4): warning C4834: 'nodiscard' 특성이 포함된 함수의 반환 값을 버리는 중
+  Flatten.vcxproj -> C:\Users\Donggeon\Desktop\SWEA\Flatten\x64\Debug\Flatten.exe
