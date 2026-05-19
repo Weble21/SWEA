@@ -1,0 +1,5 @@
+﻿  FileName.cpp
+C:\Users\Donggeon\Desktop\코딩테스트 준비\오목 판정\오목 판정\FileName.cpp(73,7): warning C4101: 'cmp_x' :참조되지 않은 지역 변수입니다.
+C:\Users\Donggeon\Desktop\코딩테스트 준비\오목 판정\오목 판정\FileName.cpp(74,7): warning C4101: 'cmp_y' :참조되지 않은 지역 변수입니다.
+C:\Users\Donggeon\Desktop\코딩테스트 준비\오목 판정\오목 판정\FileName.cpp(46,1): warning C4715: 'dfs': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  오목 판정.vcxproj -> C:\Users\Donggeon\Desktop\코딩테스트 준비\오목 판정\x64\Debug\오목 판정.exe
